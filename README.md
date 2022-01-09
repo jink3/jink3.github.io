@@ -17,3 +17,8 @@ Product: Key Collector Comics
 Company: Key Collector Comics
 Brief: I worked on redesigning the UX/UI for this existing iOS app, working closely with the Founder to refine the app's overall user flow and visuals. Utlizing multiple rounds of user tests/interviews, I gathered insights and feedback from the userbase to focus on areas of improvement and delivered a suite of design assets such as a UI Kit, Website design, as well as the app's overall redesign. 
 Prototype: 
+
+Product: Relational Junction
+Company: Sesame Software
+Brief: As the sole and first designer for Sesame I was tasked with dedesigning their exiting SaaS web app's mainline Backup/Restore product. I used custom Bootstrap components to rework the entire user flow from scratch and designed multiple components to solve the UX challenges users were facing, and delivered a high fidelity prototype and wireframes.
+Prototype: 
