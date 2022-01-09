@@ -1,6 +1,6 @@
 # jink3.github.io
 
-https://www.figma.com/proto/EhDiBisamRp2ERJRIWnqCh/Portfolio-2022---ThetaCore?page-id=730%3A1037&node-id=1230%3A5618&viewport=241%2C48%2C0.13&scaling=contain&starting-point-node-id=1230%3A5684&hide-ui=1
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEhDiBisamRp2ERJRIWnqCh%2FPortfolio-2022---ThetaCore%3Fpage-id%3D730%253A1037%26node-id%3D1230%253A5618%26viewport%3D241%252C48%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1230%253A5684" allowfullscreen></iframe>
 
 Product: ThetaCore Connect
 Company: ThetaCore
