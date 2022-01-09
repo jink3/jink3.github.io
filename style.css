@@ -44,7 +44,9 @@ h3 {
   flex-direction: column;
   position: relative;
   text-align: left;
-  padding: 1em 8em;
+  gap: 8px;
+  line-height: 1.5;
+  padding: 2em 8em;
   width: 100vw;
 }
 
