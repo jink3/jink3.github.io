@@ -2,6 +2,7 @@
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEhDiBisamRp2ERJRIWnqCh%2FPortfolio-2022---ThetaCore%3Fpage-id%3D730%253A1037%26node-id%3D1230%253A5618%26viewport%3D241%252C48%252C0.13%26scaling%3Dcontain%26starting-point-node-id%3D1230%253A5684" allowfullscreen></iframe>
 
+
 Product: ThetaCore Connect
 Company: ThetaCore
 Brief: I designed the entire app's product from the Sign Up screens to main features and product pages in the app. It's a mobile first design approach for iOS and Android native apps, with a responsive web app for browsers. Working closely with the dev team, I heavily utilized a customized Vuetify library and designed the entire brand Style Guide as well as the Design Component Library using Figma. We launched the app to hundreds of users, and will expand to thousands of users by mid year. 
