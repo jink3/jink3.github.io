@@ -46,7 +46,7 @@ h3 {
     text-align: center;
     gap: 8px;
     line-height: 1.5;
-    padding: 2em 8em;
+    padding: 1em 8em;
     width: 100vw;
   }
 
@@ -69,6 +69,14 @@ h3 {
     gap: 24px;
     padding: .5em 8em;
     width: 100vw;
+}
+
+.profile {
+  display: inline-flex;
+  flex-direction: row;
+  width: 140px;
+  position: center;
+border-radius: 999px;
 }
 
 .pmain {
