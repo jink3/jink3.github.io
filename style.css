@@ -90,15 +90,18 @@ border-radius: 999px;
 .mainbutton {
   font-family: 'Montserrat';
   text-decoration: none;
+  text-align: center;
   font-size: 16px;
   font-weight: 300;
   padding: 6px 12px;
   width: max-content;
-  border-radius: 6px;
+  min-width: 200px;
+  border-radius: 999px;
   color: #FFF;
-  align-self: center;
-  border: solid 2px #3C4BD2;
-  background-color: #3C4BD2 ;
+  flex-direction: row;
+  position: relative;
+  border: solid 2px #028BE5;
+  background-color: #028BE5;
 }
 
 .mainbutton:hover {
