@@ -52,7 +52,7 @@ h3 {
     flex-direction: row;
     position: relative;
     justify-content: center;
-    gap: 12px;
+    gap: 24px;
     padding: .5em 8em;
     width: 100vw;
 }
@@ -62,36 +62,9 @@ h3 {
     flex-direction: row;
     width: 25vw;
     position: relative;
+	border-radius: 24px;
 }
 
-  @media screen and (max-width: 600px) {
-    nav ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-      }
-
-      nav ul li {
-        cursor: pointer;
-        padding: 0.5rem;
-        flex: auto;
-        text-align: center;
-        text-decoration: none;
-        color: #070A0F;
-      }
-    .pmain {
-      width: 75vw;
-    }
-   .projects {
-     display: inline-flex;
-     flex-direction: row;
-     flex-wrap: wrap;
-    }
-  }
- 
 .mainbutton {
   font-family: 'Montserrat';
   text-decoration: none;
@@ -138,3 +111,39 @@ nav a:hover {
     text-decoration: none;
     color: #070A0F;
   }
+
+.embedptype {
+	display: block;
+	align-content: center;
+	width: 100vw;
+}
+/*Begin Reponsive Media sizing */
+  @media screen and (max-width: 600px) {
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+      }
+
+      nav ul li {
+        cursor: pointer;
+        padding: 0.5rem;
+        flex: auto;
+        text-align: center;
+        text-decoration: none;
+        color: #070A0F;
+      }
+    .pmain {
+      width: 75vw;
+    }
+   .projects {
+     display: inline-flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+    }
+  }
+/*End Responsive Resizing*/ 
+
