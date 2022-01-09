@@ -1,0 +1,139 @@
+
+/*Montserrat Font*/ 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&display=swap');
+/* 1. Enable smooth scrolling */
+html {
+	scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+}
+
+html::before {
+  opacity: calc(30 * 0.01);
+}
+
+* {
+  margin: 0px;
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat';
+  font-weight: 100;
+  overflow-x: hidden;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+  }
+
+h3 {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 18px;
+  }
+
+.intro {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+  padding: 1em 8em;
+  width: 100vw;
+}
+
+.projects {
+    display: inline-flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+    gap: 12px;
+    padding: .5em 8em;
+    width: 100vw;
+}
+
+.pmain {
+    display: inline-flex;
+    flex-direction: row;
+    width: 25vw;
+    position: relative;
+}
+
+  @media screen and (max-width: 600px) {
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+      }
+
+      nav ul li {
+        cursor: pointer;
+        padding: 0.5rem;
+        flex: auto;
+        text-align: center;
+        text-decoration: none;
+        color: #070A0F;
+      }
+    .pmain {
+      width: 75vw;
+    }
+   .projects {
+     display: inline-flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+    }
+  }
+ 
+.mainbutton {
+  font-family: 'Montserrat';
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 300;
+  padding: 6px 12px;
+  width: max-content;
+  border-radius: 6px;
+  color: #FFF;
+  align-self: center;
+  border: solid 2px #3C4BD2;
+  background-color: #3C4BD2 ;
+}
+
+.mainbutton:hover {
+  text-decoration: none;
+  border: solid 2px #010E83;
+  background-color: #010E83 ;
+}
+nav {
+    font-size: 1.7em;
+    font-weight: 300;
+    background-color: #FFF;
+  }
+nav a {
+    text-decoration: none;
+    color: #070A0F;
+}
+nav a:hover {
+    color: #3C4BD2;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around; 
+  }
+  nav ul li {
+    cursor: pointer;
+    padding: 0.5rem;
+    flex: auto;
+    text-align: center;
+    text-decoration: none;
+    color: #070A0F;
+  }
