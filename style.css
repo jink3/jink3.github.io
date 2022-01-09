@@ -39,6 +39,17 @@ h3 {
     font-size: 18px;
   }
 
+  .name {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+    gap: 8px;
+    line-height: 1.5;
+    padding: 2em 8em;
+    width: 100vw;
+  }
+
 .intro {
   display: inline-flex;
   flex-direction: column;
