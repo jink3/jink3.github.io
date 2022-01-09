@@ -116,7 +116,9 @@ nav a:hover {
 	display: block;
 	align-content: center;
 	width: 100vw;
+	padding: 1em 8em;
 }
+
 /*Begin Reponsive Media sizing */
   @media screen and (max-width: 600px) {
     nav ul {
