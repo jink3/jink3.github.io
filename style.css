@@ -155,9 +155,7 @@ nav a:hover {
         list-style: none;
         margin: 0;
         padding: 0;
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
+        display: contents;
       }
 
       nav ul li {
@@ -168,6 +166,18 @@ nav a:hover {
         text-decoration: none;
         color: #070A0F;
       }
+     .firstnav {
+          float: none;
+          display: contents;
+          padding: 24px;
+          gap: 24px;
+      }
+      .secondnav {
+        float: none;
+        display: contents;
+        padding: 24px;
+        gap: 24px;
+    }
     .pmain {
       width: 75vw;
     }
