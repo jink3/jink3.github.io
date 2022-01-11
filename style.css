@@ -71,6 +71,11 @@ h3 {
     width: 100vw;
 }
 
+.projects a {
+  text-decoration: none;
+  text-align: center;
+}
+
 .profile {
   display: inline-flex;
   flex-direction: row;
