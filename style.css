@@ -138,7 +138,7 @@ nav a:hover {
 
   nav ul li {
     cursor: pointer;
-    padding: 12px;
+    padding: 12px 24px;
     flex: auto;
     text-align: center;
     text-decoration: none;
