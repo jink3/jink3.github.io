@@ -118,7 +118,10 @@ nav {
     font-size: 1.7em;
     font-weight: 300;
     background-color: #FFF;
+    display: flex;
+    justify-content: space-between;
   }
+
 nav a {
     text-decoration: none;
     color: #070A0F;
@@ -129,13 +132,13 @@ nav a:hover {
   nav ul {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 6px 50px;
     display: flex;
-    justify-content: space-around; 
   }
+
   nav ul li {
     cursor: pointer;
-    padding: 0.5rem;
+    padding: 12px;
     flex: auto;
     text-align: center;
     text-decoration: none;
