@@ -93,6 +93,14 @@ border-radius: 999px;
 	border-radius: 24px;
 }
 
+.details {
+  display: inline-flex;
+  flex-direction: row;
+  width: 75vw;
+  position: relative;
+  justify-content: left;
+}
+
 .mainbutton {
   font-family: 'Montserrat';
   text-decoration: none;
